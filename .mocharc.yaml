@@ -1,0 +1,9 @@
+require: '@babel/register'
+reporter: 'mochawesome'
+
+
+
+
+
+
+
